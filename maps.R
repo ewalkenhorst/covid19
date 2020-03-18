@@ -1,0 +1,38 @@
+#import the data
+library(dplyr)
+library(leaflet)
+library(readr)
+state_cases <- read.csv("https://covidtracking.com/api/states.csv")
+
+#add shape file
+library(sf)
+states_census <- st_read("Data/tl_2019_us_state.shp")
+states_census %>% 
+  leaflet() %>% 
+  addTiles() %>% 
+  addPolygons(popup=~NAME)
+states_merged_sb <- geo_join(states_census, state_cases, "STUSPS", "state")
+
+#make map features and map
+pal <- colorNumeric("Greens", domain=states_merged_sb$positive)
+popup_sb <- paste0(states_merged_sb$NAME, "<br>", "Confirmed Cases: ", as.character(states_merged_sb$positive), "<br>", "Negative tests: ", as.character(states_merged_sb$negative), "<br>", "Pending tests: ", as.character(states_merged_sb$pending), "<br>", "Deaths: ", as.character(states_merged_sb$death))
+uscovid19map <- leaflet() %>%
+  addProviderTiles("CartoDB.Positron") %>%
+  addTiles(attribution = "The COVID Tracking Project")  %>%
+  setView(-98.483330, 38.712046, zoom = 4) %>% 
+  addPolygons(data = states_merged_sb , 
+              fillColor = ~pal(states_merged_sb$positive), 
+              fillOpacity = 0.7, 
+              weight = 0.2, 
+              smoothFactor = 0.2, 
+              popup = ~popup_sb) %>%
+  addLegend(pal = pal, 
+            values = states_merged_sb$positive, 
+            position = "bottomright", 
+            title = "Confirmed Cases")
+
+#export case data to .csv, if needed
+write.csv(state_cases, "Data/state_cases.csv")
+
+#send on over to github
+
