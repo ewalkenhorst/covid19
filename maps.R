@@ -6,6 +6,7 @@ state_cases <- read.csv("https://covidtracking.com/api/states.csv")
 
 #add shape file
 library(sf)
+library(tigris)
 states_census <- st_read("Data/tl_2019_us_state.shp")
 states_census %>% 
   leaflet() %>% 
