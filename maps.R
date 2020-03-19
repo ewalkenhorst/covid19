@@ -17,7 +17,7 @@ states_merged_sb <- geo_join(states_census, state_cases, "STUSPS", "state")
 #make map features and map
 pal <- colorNumeric("Greens", domain=states_merged_sb$positive)
 popup_sb <- paste0(states_merged_sb$NAME, "<br>", "Confirmed Cases: ", as.character(states_merged_sb$positive), "<br>", "Negative tests: ", as.character(states_merged_sb$negative), "<br>", "Pending tests: ", as.character(states_merged_sb$pending), "<br>", "Deaths: ", as.character(states_merged_sb$death))
-uscovid19map <- leaflet() %>%
+leaflet() %>%
   addProviderTiles("CartoDB.Positron") %>%
   addTiles(attribution = "The COVID Tracking Project")  %>%
   setView(-98.483330, 38.712046, zoom = 4) %>% 
@@ -36,4 +36,5 @@ uscovid19map <- leaflet() %>%
 write.csv(state_cases, "Data/state_cases.csv")
 
 #send on over to github
+uscovid19map
 
