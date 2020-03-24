@@ -1,0 +1,529 @@
+﻿area_fips,area_name,size_title,disclosure_warning,businesses,total_qtrly_wages,employees,avg_annual_wage
+01000,Alabama,All establishment sizes,FALSE,127988,24160364990,1967752,49112.62
+01000,Alabama,Fewer than 5 employees per establishment,FALSE,68285,1331787405,109563,48621.94
+01000,Alabama,5 to 9 employees per establishment,FALSE,21974,1485643871,146192,40649.02
+01000,Alabama,10 to 19 employees per establishment,FALSE,15350,2112415781,205834,41050.8
+01000,Alabama,20 to 49 employees per establishment,FALSE,10542,3282793860,313540,41880.38
+01000,Alabama,50 to 99 employees per establishment,FALSE,3138,2541616489,212584,47823.29
+01000,Alabama,100 to 249 employees per establishment,FALSE,1769,3044006067,259915,46846.12
+01000,Alabama,250 to 499 employees per establishment,FALSE,452,2201601044,152730,57659.82
+01000,Alabama,500 to 999 employees per establishment,FALSE,132,1414644601,89740,63055.02
+01000,Alabama,1000 or more employees per establishment,FALSE,70,2100185016,112653,74572.05
+02000,Alaska,All establishment sizes,FALSE,21777,4456419088,309632,57570.59
+02000,Alaska,Fewer than 5 employees per establishment,FALSE,11650,195794858,17867,43834.67
+02000,Alaska,5 to 9 employees per establishment,FALSE,3602,247287650,23694,41747.47
+02000,Alaska,10 to 19 employees per establishment,FALSE,2327,346254134,30782,44994.36
+02000,Alaska,20 to 49 employees per establishment,FALSE,1467,518656581,42638,48656.37
+02000,Alaska,50 to 99 employees per establishment,FALSE,443,418902524,29814,56201.49
+02000,Alaska,100 to 249 employees per establishment,FALSE,253,549934454,37904,58033.94
+02000,Alaska,250 to 499 employees per establishment,FALSE,63,430109432,21063,81681.86
+02000,Alaska,500 to 999 employees per establishment,FALSE,18,291538554,12286,94914.75
+02000,Alaska,1000 or more employees per establishment,FALSE,10,352120638,16514,85291.93
+04000,Arizona,All establishment sizes,FALSE,163374,39546778767,2889671,54742.25
+04000,Arizona,Fewer than 5 employees per establishment,FALSE,99399,2131422538,139549,61094.45
+04000,Arizona,5 to 9 employees per establishment,FALSE,22942,1794173750,151585,47344.36
+04000,Arizona,10 to 19 employees per establishment,FALSE,17208,2641809102,232056,45537.44
+04000,Arizona,20 to 49 employees per establishment,FALSE,12574,4214461974,375203,44929.98
+04000,Arizona,50 to 99 employees per establishment,FALSE,4457,3783674647,306358,49401.95
+04000,Arizona,100 to 249 employees per establishment,FALSE,2795,5226235913,413924,50504.34
+04000,Arizona,250 to 499 employees per establishment,FALSE,791,3899018785,269561,57857.24
+04000,Arizona,500 to 999 employees per establishment,FALSE,337,3520658106,231565,60814.94
+04000,Arizona,1000 or more employees per establishment,FALSE,184,6973778262,367664,75871.28
+05000,Arkansas,All establishment sizes,FALSE,91253,14117756242,1213386,46540.05
+05000,Arkansas,Fewer than 5 employees per establishment,FALSE,53962,861090145,73908,46603.35
+05000,Arkansas,5 to 9 employees per establishment,FALSE,14112,879766481,92820,37912.8
+05000,Arkansas,10 to 19 employees per establishment,FALSE,9385,1226684807,126354,38833.37
+05000,Arkansas,20 to 49 employees per establishment,FALSE,6257,1804667712,186631,38678.91
+05000,Arkansas,50 to 99 employees per establishment,FALSE,1899,1368480758,128738,42519.98
+05000,Arkansas,100 to 249 employees per establishment,FALSE,1033,1722808749,154058,44731.34
+05000,Arkansas,250 to 499 employees per establishment,FALSE,259,1111075428,87492,50796.47
+05000,Arkansas,500 to 999 employees per establishment,FALSE,82,823026240,56075,58708.61
+05000,Arkansas,1000 or more employees per establishment,FALSE,60,2086657516,106492,78377.76
+06000,California,All establishment sizes,FALSE,1567684,315930987352,17361308,72789.68
+06000,California,Fewer than 5 employees per establishment,FALSE,1106989,15970792671,1453614,43947.81
+06000,California,5 to 9 employees per establishment,FALSE,167712,13894459601,1098955,50573.35
+06000,California,10 to 19 employees per establishment,FALSE,121251,21160046545,1633050,51829.51
+06000,California,20 to 49 employees per establishment,FALSE,85288,36230533509,2538979,57078.9
+06000,California,50 to 99 employees per establishment,FALSE,29000,31828867416,1980225,64293.43
+06000,California,100 to 249 employees per establishment,FALSE,15507,42402502977,2300504,73727.32
+06000,California,250 to 499 employees per establishment,FALSE,3754,31201498442,1266621,98534.63
+06000,California,500 to 999 employees per establishment,FALSE,1324,22962222597,893648,102779.72
+06000,California,1000 or more employees per establishment,FALSE,762,55048359571,1673757,131556.42
+08000,Colorado,All establishment sizes,FALSE,208398,42964167315,2684863,64009.47
+08000,Colorado,Fewer than 5 employees per establishment,FALSE,132042,3005202245,187668,64053.7
+08000,Colorado,5 to 9 employees per establishment,FALSE,28982,2499871813,190377,52524.75
+08000,Colorado,10 to 19 employees per establishment,FALSE,20953,3687706515,282178,52274.84
+08000,Colorado,20 to 49 employees per establishment,FALSE,15103,6129626229,449465,54550.42
+08000,Colorado,50 to 99 employees per establishment,FALSE,4650,4854032700,316213,61402
+08000,Colorado,100 to 249 employees per establishment,FALSE,2479,6280979076,367362,68390.02
+08000,Colorado,250 to 499 employees per establishment,FALSE,544,3841027117,183022,83946.78
+08000,Colorado,500 to 999 employees per establishment,FALSE,178,2788017722,122922,90725.02
+08000,Colorado,1000 or more employees per establishment,FALSE,92,3809898054,163091,93442.07
+09000,Connecticut,All establishment sizes,FALSE,121786,31856887938,1646972,77370.81
+09000,Connecticut,Fewer than 5 employees per establishment,FALSE,74609,1842223064,106778,69011.33
+09000,Connecticut,5 to 9 employees per establishment,FALSE,18052,1702226308,119075,57181.65
+09000,Connecticut,10 to 19 employees per establishment,FALSE,12422,2417301315,166803,57967.93
+09000,Connecticut,20 to 49 employees per establishment,FALSE,8486,4003654534,254450,62938.26
+09000,Connecticut,50 to 99 employees per establishment,FALSE,2701,3763287090,185320,81227.72
+09000,Connecticut,100 to 249 employees per establishment,FALSE,1670,4828176599,247712,77964.46
+09000,Connecticut,250 to 499 employees per establishment,FALSE,327,2298142095,108985,84346.84
+09000,Connecticut,500 to 999 employees per establishment,FALSE,98,2566011035,66532,154271.52
+09000,Connecticut,1000 or more employees per establishment,FALSE,66,4760419668,161670,117781.39
+10000,Delaware,All establishment sizes,FALSE,33775,7080013761,443063,63918.8
+10000,Delaware,Fewer than 5 employees per establishment,FALSE,22725,410365589,27309,60107.74
+10000,Delaware,5 to 9 employees per establishment,FALSE,4030,323039157,26198,49322.72
+10000,Delaware,10 to 19 employees per establishment,FALSE,3015,472211664,40237,46943.03
+10000,Delaware,20 to 49 employees per establishment,FALSE,2092,736040389,61990,47494.39
+10000,Delaware,50 to 99 employees per establishment,FALSE,751,627658911,49849,50364.81
+10000,Delaware,100 to 249 employees per establishment,FALSE,418,883378782,61888,57095.32
+10000,Delaware,250 to 499 employees per establishment,FALSE,102,741830807,34749,85393.87
+10000,Delaware,500 to 999 employees per establishment,FALSE,26,533007488,17322,123079.84
+10000,Delaware,1000 or more employees per establishment,FALSE,30,1397831174,59902,93340.68
+11000,District of Columbia,All establishment sizes,FALSE,40276,19207933688,769253,99878.41
+11000,District of Columbia,Fewer than 5 employees per establishment,FALSE,27583,754638017,31569,95617.6
+11000,District of Columbia,5 to 9 employees per establishment,FALSE,4384,691458521,28601,96705.23
+11000,District of Columbia,10 to 19 employees per establishment,FALSE,3257,1039940844,44110,94305.03
+11000,District of Columbia,20 to 49 employees per establishment,FALSE,2749,1904767338,82689,92140.9
+11000,District of Columbia,50 to 99 employees per establishment,FALSE,1011,1596773414,68916,92679.4
+11000,District of Columbia,100 to 249 employees per establishment,FALSE,639,2449202276,95809,102253.89
+11000,District of Columbia,250 to 499 employees per establishment,FALSE,191,1569996088,64562,97271.1
+11000,District of Columbia,500 to 999 employees per establishment,FALSE,57,1032559914,38050,108546.74
+11000,District of Columbia,1000 or more employees per establishment,FALSE,32,1775603413,78843,90083.38
+12000,Florida,All establishment sizes,FALSE,708975,116751637096,8853113,52750.55
+12000,Florida,Fewer than 5 employees per establishment,FALSE,465856,8821177641,662055,53295.74
+12000,Florida,5 to 9 employees per establishment,FALSE,97409,7617645531,638694,47707.64
+12000,Florida,10 to 19 employees per establishment,FALSE,67365,10539002481,897427,46974.29
+12000,Florida,20 to 49 employees per establishment,FALSE,45513,16412810861,1361844,48207.62
+12000,Florida,50 to 99 employees per establishment,FALSE,14973,12598416861,1015699,49614.77
+12000,Florida,100 to 249 employees per establishment,FALSE,8818,16809552515,1310752,51297.43
+12000,Florida,250 to 499 employees per establishment,FALSE,1967,9782852453,669091,58484.41
+12000,Florida,500 to 999 employees per establishment,FALSE,691,7854181145,470455,66779.45
+12000,Florida,1000 or more employees per establishment,FALSE,322,11333167928,731440,61977.27
+13000,Georgia,All establishment sizes,FALSE,281054,65010833825,4461478,58286.36
+13000,Georgia,Fewer than 5 employees per establishment,FALSE,166422,3537391948,243563,58094.16
+13000,Georgia,5 to 9 employees per establishment,FALSE,41283,3248166831,272194,47733.17
+13000,Georgia,10 to 19 employees per establishment,FALSE,29450,4670040782,396941,47060.26
+13000,Georgia,20 to 49 employees per establishment,FALSE,22168,7742178254,661767,46797
+13000,Georgia,50 to 99 employees per establishment,FALSE,7257,6746886670,495180,54500.48
+13000,Georgia,100 to 249 employees per establishment,FALSE,4532,9690432239,675773,57359.1
+13000,Georgia,250 to 499 employees per establishment,FALSE,1152,6889559749,387193,71174.36
+13000,Georgia,500 to 999 employees per establishment,FALSE,374,4955848126,259828,76294.29
+13000,Georgia,1000 or more employees per establishment,FALSE,193,9426973359,415586,90734.27
+15000,Hawaii,All establishment sizes,FALSE,43716,8592730459,657746,52255.64
+15000,Hawaii,Fewer than 5 employees per establishment,FALSE,24169,497825343,38053,52329.68
+15000,Hawaii,5 to 9 employees per establishment,FALSE,7337,521705076,48243,43256.14
+15000,Hawaii,10 to 19 employees per establishment,FALSE,5008,740480028,67491,43886.15
+15000,Hawaii,20 to 49 employees per establishment,FALSE,3350,1123942028,99614,45131.74
+15000,Hawaii,50 to 99 employees per establishment,FALSE,1206,951637517,82603,46082.28
+15000,Hawaii,100 to 249 employees per establishment,FALSE,508,975716025,75196,51902.78
+15000,Hawaii,250 to 499 employees per establishment,FALSE,149,692745762,51013,54319.15
+15000,Hawaii,500 to 999 employees per establishment,FALSE,57,586752975,38517,60934.44
+15000,Hawaii,1000 or more employees per establishment,FALSE,19,592665596,33388,71003.43
+16000,Idaho,All establishment sizes,FALSE,66349,7835395738,727343,43090.49
+16000,Idaho,Fewer than 5 employees per establishment,FALSE,41409,656457103,57390,45754.11
+16000,Idaho,5 to 9 employees per establishment,FALSE,9451,572286480,61224,37389.68
+16000,Idaho,10 to 19 employees per establishment,FALSE,6522,804767806,87116,36951.41
+16000,Idaho,20 to 49 employees per establishment,FALSE,4227,1142487390,124168,36804.57
+16000,Idaho,50 to 99 employees per establishment,FALSE,1199,841286419,81010,41539.88
+16000,Idaho,100 to 249 employees per establishment,FALSE,579,864747402,84877,40752.97
+16000,Idaho,250 to 499 employees per establishment,FALSE,133,550495604,45239,48674.07
+16000,Idaho,500 to 999 employees per establishment,FALSE,46,449377137,30223,59475.51
+16000,Idaho,1000 or more employees per establishment,FALSE,17,690244069,36417,75816.28
+17000,Illinois,All establishment sizes,FALSE,371846,97444370001,5888569,66192.22
+17000,Illinois,Fewer than 5 employees per establishment,FALSE,234245,4249505168,309265,54962.64
+17000,Illinois,5 to 9 employees per establishment,FALSE,50019,4084152110,328181,49779.21
+17000,Illinois,10 to 19 employees per establishment,FALSE,35823,6156401636,479973,51306.23
+17000,Illinois,20 to 49 employees per establishment,FALSE,25372,10455465753,765597,54626.45
+17000,Illinois,50 to 99 employees per establishment,FALSE,9356,9890051043,642974,61526.88
+17000,Illinois,100 to 249 employees per establishment,FALSE,5890,14521608053,883304,65760.43
+17000,Illinois,250 to 499 employees per establishment,FALSE,1528,11178483916,515477,86742.78
+17000,Illinois,500 to 999 employees per establishment,FALSE,599,8328794624,408875,81480.17
+17000,Illinois,1000 or more employees per establishment,FALSE,361,17436253569,769273,90663.58
+18000,Indiana,All establishment sizes,FALSE,168576,38144309174,3044422,50116.99
+18000,Indiana,Fewer than 5 employees per establishment,FALSE,88863,1782034257,141233,50470.76
+18000,Indiana,5 to 9 employees per establishment,FALSE,28446,1863358510,187825,39682.79
+18000,Indiana,10 to 19 employees per establishment,FALSE,21085,2779616942,283889,39164.89
+18000,Indiana,20 to 49 employees per establishment,FALSE,15212,4564269803,453426,40264.77
+18000,Indiana,50 to 99 employees per establishment,FALSE,5248,3982826091,357181,44602.85
+18000,Indiana,100 to 249 employees per establishment,FALSE,2957,5315900266,444795,47805.4
+18000,Indiana,250 to 499 employees per establishment,FALSE,735,3241108053,247768,52324.89
+18000,Indiana,500 to 999 employees per establishment,FALSE,307,3404643961,209212,65094.62
+18000,Indiana,1000 or more employees per establishment,FALSE,138,6533068878,322625,80998.92
+19000,Iowa,All establishment sizes,FALSE,103581,18675841573,1523668,49028.63
+19000,Iowa,Fewer than 5 employees per establishment,FALSE,56023,1017429619,91997,44237.67
+19000,Iowa,5 to 9 employees per establishment,FALSE,16977,1077500860,111796,38552.39
+19000,Iowa,10 to 19 employees per establishment,FALSE,12221,1611276799,164222,39246.23
+19000,Iowa,20 to 49 employees per establishment,FALSE,7794,2397511057,230163,41666.26
+19000,Iowa,50 to 99 employees per establishment,FALSE,2470,1882788648,167853,44867.47
+19000,Iowa,100 to 249 employees per establishment,FALSE,1285,2414729853,194177,49742.86
+19000,Iowa,250 to 499 employees per establishment,FALSE,382,1747806549,130321,53646.06
+19000,Iowa,500 to 999 employees per establishment,FALSE,119,1262160788,78657,64185.55
+19000,Iowa,1000 or more employees per establishment,FALSE,55,2250146189,112694,79867.47
+20000,Kansas,All establishment sizes,FALSE,87404,16816980603,1377819,48822.04
+20000,Kansas,Fewer than 5 employees per establishment,FALSE,48613,1001378517,78179,51235.17
+20000,Kansas,5 to 9 employees per establishment,FALSE,13571,908051010,89285,40681.01
+20000,Kansas,10 to 19 employees per establishment,FALSE,9559,1309615349,128749,40687.5
+20000,Kansas,20 to 49 employees per establishment,FALSE,6814,2223034346,204813,43415.81
+20000,Kansas,50 to 99 employees per establishment,FALSE,2169,1771805161,147326,48105.81
+20000,Kansas,100 to 249 employees per establishment,FALSE,1259,2523917463,192227,52519.43
+20000,Kansas,250 to 499 employees per establishment,FALSE,330,1524162879,110064,55391.71
+20000,Kansas,500 to 999 employees per establishment,FALSE,93,1003781933,63190,63540.56
+20000,Kansas,1000 or more employees per establishment,FALSE,54,1920869437,115952,66264.11
+21000,Kentucky,All establishment sizes,FALSE,123199,22441962538,1875515,47863.04
+21000,Kentucky,Fewer than 5 employees per establishment,FALSE,70437,1206432754,100023,48246.05
+21000,Kentucky,5 to 9 employees per establishment,FALSE,18764,1220167173,122780,39751.44
+21000,Kentucky,10 to 19 employees per establishment,FALSE,13468,1811302836,180868,40058.01
+21000,Kentucky,20 to 49 employees per establishment,FALSE,9318,2837112390,277090,40955.83
+21000,Kentucky,50 to 99 employees per establishment,FALSE,2936,2215681396,198337,44685.26
+21000,Kentucky,100 to 249 employees per establishment,FALSE,1787,3382259305,269241,50248.86
+21000,Kentucky,250 to 499 employees per establishment,FALSE,511,2276421233,171951,52955.22
+21000,Kentucky,500 to 999 employees per establishment,FALSE,155,1548705447,104124,59494.85
+21000,Kentucky,1000 or more employees per establishment,FALSE,69,2583986810,153849,67182.41
+22000,Louisiana,All establishment sizes,FALSE,133769,23761794329,1917436,49569.94
+22000,Louisiana,Fewer than 5 employees per establishment,FALSE,73774,1290385232,107701,47924.87
+22000,Louisiana,5 to 9 employees per establishment,FALSE,22227,1474353767,148261,39777.34
+22000,Louisiana,10 to 19 employees per establishment,FALSE,15384,2154187907,207593,41507.98
+22000,Louisiana,20 to 49 employees per establishment,FALSE,10780,3410928697,318935,42778.94
+22000,Louisiana,50 to 99 employees per establishment,FALSE,3460,2711221774,235292,46091.12
+22000,Louisiana,100 to 249 employees per establishment,FALSE,1763,3320999413,256207,51848.69
+22000,Louisiana,250 to 499 employees per establishment,FALSE,370,1924784941,124066,62056.81
+22000,Louisiana,500 to 999 employees per establishment,FALSE,119,1735375638,82732,83903.48
+22000,Louisiana,1000 or more employees per establishment,FALSE,63,2101567229,125266,67107.17
+23000,Maine,All establishment sizes,FALSE,53354,7155691718,598761,47803.33
+23000,Maine,Fewer than 5 employees per establishment,FALSE,32029,551453123,44285,49809.47
+23000,Maine,5 to 9 employees per establishment,FALSE,7926,517837768,52299,39606.19
+23000,Maine,10 to 19 employees per establishment,FALSE,5451,705449189,72895,38710.61
+23000,Maine,20 to 49 employees per establishment,FALSE,3263,1002341118,97388,41168.98
+23000,Maine,50 to 99 employees per establishment,FALSE,959,700588124,65278,42929.29
+23000,Maine,100 to 249 employees per establishment,FALSE,504,913127710,75164,48594.1
+23000,Maine,250 to 499 employees per establishment,FALSE,96,457400872,32166,56880.63
+23000,Maine,500 to 999 employees per establishment,FALSE,36,419752800,24962,67262.69
+23000,Maine,1000 or more employees per establishment,FALSE,17,740666841,36504,81159.33
+24000,Maryland,All establishment sizes,FALSE,175427,42436883582,2659358,63830.27
+24000,Maryland,Fewer than 5 employees per establishment,FALSE,105791,2402873306,151796,63318.49
+24000,Maryland,5 to 9 employees per establishment,FALSE,25715,2195509096,168523,52111.69
+24000,Maryland,10 to 19 employees per establishment,FALSE,18715,3160261631,252288,50105.62
+24000,Maryland,20 to 49 employees per establishment,FALSE,13617,5539213662,406917,54450.51
+24000,Maryland,50 to 99 employees per establishment,FALSE,4692,4637409645,320425,57890.67
+24000,Maryland,100 to 249 employees per establishment,FALSE,2571,5990546671,375040,63892.35
+24000,Maryland,250 to 499 employees per establishment,FALSE,543,3374051401,181633,74304.95
+24000,Maryland,500 to 999 employees per establishment,FALSE,155,2164879677,101166,85597.41
+24000,Maryland,1000 or more employees per establishment,FALSE,95,4185856098,204792,81758.2
+25000,Massachusetts,All establishment sizes,FALSE,261830,72017352850,3547927,81193.72
+25000,Massachusetts,Fewer than 5 employees per establishment,FALSE,168792,3453974259,240657,57409.08
+25000,Massachusetts,5 to 9 employees per establishment,FALSE,34188,3306828341,225106,58760.38
+25000,Massachusetts,10 to 19 employees per establishment,FALSE,23691,4673000703,317459,58879.99
+25000,Massachusetts,20 to 49 employees per establishment,FALSE,16933,8257510809,509970,64768.6
+25000,Massachusetts,50 to 99 employees per establishment,FALSE,5884,7308180173,401645,72782.42
+25000,Massachusetts,100 to 249 employees per establishment,FALSE,3443,10824677537,511167,84705.66
+25000,Massachusetts,250 to 499 employees per establishment,FALSE,828,8095394900,283780,114108.17
+25000,Massachusetts,500 to 999 employees per establishment,FALSE,298,6886677273,199984,137744.34
+25000,Massachusetts,1000 or more employees per establishment,FALSE,174,12180074426,421843,115493.82
+26000,Michigan,All establishment sizes,FALSE,249633,60129590608,4290397,56059.7
+26000,Michigan,Fewer than 5 employees per establishment,FALSE,145193,2832995957,225446,50264.74
+26000,Michigan,5 to 9 employees per establishment,FALSE,38884,2740443177,255597,42886.94
+26000,Michigan,10 to 19 employees per establishment,FALSE,26751,3857833492,358762,43012.73
+26000,Michigan,20 to 49 employees per establishment,FALSE,18816,6398907672,562961,45466.11
+26000,Michigan,50 to 99 employees per establishment,FALSE,6424,5640795402,443798,50841.15
+26000,Michigan,100 to 249 employees per establishment,FALSE,4259,9078827771,642843,56491.7
+26000,Michigan,250 to 499 employees per establishment,FALSE,1190,5884496018,397109,59273.41
+26000,Michigan,500 to 999 employees per establishment,FALSE,394,4623058142,265542,69639.66
+26000,Michigan,1000 or more employees per establishment,FALSE,240,11322125205,570621,79367.09
+27000,Minnesota,All establishment sizes,FALSE,174773,44458327659,2842978,62551.78
+27000,Minnesota,Fewer than 5 employees per establishment,FALSE,103229,1912000067,138555,55198.17
+27000,Minnesota,5 to 9 employees per establishment,FALSE,24165,1860652002,159756,46587.25
+27000,Minnesota,10 to 19 employees per establishment,FALSE,18512,2804673238,250769,44737.16
+27000,Minnesota,20 to 49 employees per establishment,FALSE,13579,5035588773,408019,49366.22
+27000,Minnesota,50 to 99 employees per establishment,FALSE,4730,4602059518,324204,56779.8
+27000,Minnesota,100 to 249 employees per establishment,FALSE,2754,6187155216,412819,59950.3
+27000,Minnesota,250 to 499 employees per establishment,FALSE,759,4431656873,258921,68463.46
+27000,Minnesota,500 to 999 employees per establishment,FALSE,258,3420984788,175235,78089.08
+27000,Minnesota,1000 or more employees per establishment,FALSE,143,8723918978,322427,108228.14
+28000,Mississippi,All establishment sizes,FALSE,73333,11417156159,1127418,40507.26
+28000,Mississippi,Fewer than 5 employees per establishment,FALSE,39093,661247924,62428,42368.68
+28000,Mississippi,5 to 9 employees per establishment,FALSE,13010,757764407,86004,35243.35
+28000,Mississippi,10 to 19 employees per establishment,FALSE,8602,1035817968,114803,36090.28
+28000,Mississippi,20 to 49 employees per establishment,FALSE,5690,1524827796,168703,36154.14
+28000,Mississippi,50 to 99 employees per establishment,FALSE,1781,1131869500,120505,37570.87
+28000,Mississippi,100 to 249 employees per establishment,FALSE,879,1339985253,130135,41187.44
+28000,Mississippi,250 to 499 employees per establishment,FALSE,252,871467005,85972,40546.71
+28000,Mississippi,500 to 999 employees per establishment,FALSE,83,743719876,57286,51930.61
+28000,Mississippi,1000 or more employees per establishment,FALSE,34,842406028,68783,48989.44
+29000,Missouri,All establishment sizes,FALSE,206001,35570623775,2774208,51287.61
+29000,Missouri,Fewer than 5 employees per establishment,FALSE,126123,2022163420,176603,45801.25
+29000,Missouri,5 to 9 employees per establishment,FALSE,27687,1882955728,181822,41424.23
+29000,Missouri,10 to 19 employees per establishment,FALSE,20206,2818934482,270826,41634.67
+29000,Missouri,20 to 49 employees per establishment,FALSE,14461,4560399028,428683,42552.68
+29000,Missouri,50 to 99 employees per establishment,FALSE,4585,3661659174,311607,47003.55
+29000,Missouri,100 to 249 employees per establishment,FALSE,2427,4964960255,363091,54696.54
+29000,Missouri,250 to 499 employees per establishment,FALSE,674,3234755583,227084,56979.01
+29000,Missouri,500 to 999 employees per establishment,FALSE,208,2522944034,142310,70914.03
+29000,Missouri,1000 or more employees per establishment,FALSE,109,5206224870,250998,82968.5
+30000,Montana,All establishment sizes,FALSE,48618,5016158617,457501,43857
+30000,Montana,Fewer than 5 employees per establishment,FALSE,30424,495182961,44442,44569.25
+30000,Montana,5 to 9 employees per establishment,FALSE,7308,435123839,47714,36477.41
+30000,Montana,10 to 19 employees per establishment,FALSE,4737,594232155,63127,37652.92
+30000,Montana,20 to 49 employees per establishment,FALSE,2816,792504013,82737,38314.52
+30000,Montana,50 to 99 employees per establishment,FALSE,740,513414044,50305,40824.37
+30000,Montana,100 to 249 employees per establishment,FALSE,287,496313296,40727,48745.38
+30000,Montana,250 to 499 employees per establishment,FALSE,71,342825095,22633,60589.43
+30000,Montana,500 to 999 employees per establishment,TRUE,6,,,
+30000,Montana,1000 or more employees per establishment,TRUE,9,,,
+31000,Nebraska,All establishment sizes,FALSE,71630,11494443958,963523,47718.42
+31000,Nebraska,Fewer than 5 employees per establishment,FALSE,41708,702631000,63940,43955.42
+31000,Nebraska,5 to 9 employees per establishment,FALSE,10883,718391687,71758,40045.25
+31000,Nebraska,10 to 19 employees per establishment,FALSE,7720,1016594796,103911,39133.16
+31000,Nebraska,20 to 49 employees per establishment,FALSE,5116,1565749453,151106,41447.8
+31000,Nebraska,50 to 99 employees per establishment,FALSE,1476,1145845767,99692,45975.44
+31000,Nebraska,100 to 249 employees per establishment,FALSE,758,1412271083,111491,50668.67
+31000,Nebraska,250 to 499 employees per establishment,FALSE,198,878813386,68762,51122.04
+31000,Nebraska,500 to 999 employees per establishment,FALSE,82,921146838,54642,67431.41
+31000,Nebraska,1000 or more employees per establishment,FALSE,38,1194572189,77988,61269.28
+32000,Nevada,All establishment sizes,FALSE,81543,17855618334,1385266,51558.68
+32000,Nevada,Fewer than 5 employees per establishment,FALSE,45544,1214571620,72859,66680.66
+32000,Nevada,5 to 9 employees per establishment,FALSE,13740,1083502749,90851,47704.43
+32000,Nevada,10 to 19 employees per establishment,FALSE,10045,1522593218,134464,45293.82
+32000,Nevada,20 to 49 employees per establishment,FALSE,6897,2326137333,205360,45308.55
+32000,Nevada,50 to 99 employees per establishment,FALSE,2229,1776261368,151869,46783.94
+32000,Nevada,100 to 249 employees per establishment,FALSE,1238,2194721928,178875,49078.34
+32000,Nevada,250 to 499 employees per establishment,FALSE,291,1271774867,99056,51355.97
+32000,Nevada,500 to 999 employees per establishment,FALSE,129,1225621233,86212,56865.46
+32000,Nevada,1000 or more employees per establishment,FALSE,88,2885798332,207752,55562.28
+33000,New Hampshire,All establishment sizes,FALSE,52670,9868759542,655330,60236.85
+33000,New Hampshire,Fewer than 5 employees per establishment,FALSE,30641,903898793,47866,75535.77
+33000,New Hampshire,5 to 9 employees per establishment,FALSE,8217,705031956,54520,51726.48
+33000,New Hampshire,10 to 19 employees per establishment,FALSE,5750,999731690,76883,52013.15
+33000,New Hampshire,20 to 49 employees per establishment,FALSE,3591,1377826960,107151,51434.96
+33000,New Hampshire,50 to 99 employees per establishment,FALSE,1130,1030052931,76971,53529.64
+33000,New Hampshire,100 to 249 employees per establishment,FALSE,571,1407031206,84206,66837.31
+33000,New Hampshire,250 to 499 employees per establishment,FALSE,146,791699631,49686,63736.23
+33000,New Hampshire,500 to 999 employees per establishment,FALSE,46,641120452,30566,83899.82
+33000,New Hampshire,1000 or more employees per establishment,FALSE,19,895494979,39648,90343.77
+34000,New Jersey,All establishment sizes,FALSE,272228,73057862889,4012360,72832.82
+34000,New Jersey,Fewer than 5 employees per establishment,FALSE,165224,3696728284,269464,54875.21
+34000,New Jersey,5 to 9 employees per establishment,FALSE,42323,3594870208,277486,51820.56
+34000,New Jersey,10 to 19 employees per establishment,FALSE,28288,5179527831,379181,54639.06
+34000,New Jersey,20 to 49 employees per establishment,FALSE,19238,8341436853,574044,58124.02
+34000,New Jersey,50 to 99 employees per establishment,FALSE,6454,7380754453,440652,66998.49
+34000,New Jersey,100 to 249 employees per establishment,FALSE,3776,10578255531,571725,74009.4
+34000,New Jersey,250 to 499 employees per establishment,FALSE,927,6879938608,309469,88925.82
+34000,New Jersey,500 to 999 employees per establishment,FALSE,311,5926771528,210335,112710.91
+34000,New Jersey,1000 or more employees per establishment,FALSE,191,11361510084,386953,117445.99
+35000,New Mexico,All establishment sizes,FALSE,61650,9542141897,824604,46287.17
+35000,New Mexico,Fewer than 5 employees per establishment,FALSE,35926,550188041,50089,43936.54
+35000,New Mexico,5 to 9 employees per establishment,FALSE,8641,534508837,56983,37520.36
+35000,New Mexico,10 to 19 employees per establishment,FALSE,6277,804301643,84702,37982.65
+35000,New Mexico,20 to 49 employees per establishment,FALSE,4529,1310235674,134810,38876.51
+35000,New Mexico,50 to 99 employees per establishment,FALSE,1314,914895941,88199,41492.35
+35000,New Mexico,100 to 249 employees per establishment,FALSE,705,1147378145,103324,44418.65
+35000,New Mexico,250 to 499 employees per establishment,FALSE,168,696904183,56219,49585.25
+35000,New Mexico,500 to 999 employees per establishment,FALSE,36,282026864,23099,48838.64
+35000,New Mexico,1000 or more employees per establishment,FALSE,14,1054525888,47300,89177.04
+36000,New York,All establishment sizes,FALSE,638073,200078946557,9393611,85197.89
+36000,New York,Fewer than 5 employees per establishment,FALSE,400862,8024123606,609730,52640.53
+36000,New York,5 to 9 employees per establishment,FALSE,93571,8009907153,611047,52433.96
+36000,New York,10 to 19 employees per establishment,FALSE,61314,11701256043,820235,57062.94
+36000,New York,20 to 49 employees per establishment,FALSE,41600,20585635189,1245392,66117.75
+36000,New York,50 to 99 employees per establishment,FALSE,13334,17965991205,906863,79244.54
+36000,New York,100 to 249 employees per establishment,FALSE,7630,25365704297,1145937,88541.36
+36000,New York,250 to 499 employees per establishment,FALSE,2149,18829087012,724183,104001.82
+36000,New York,500 to 999 employees per establishment,FALSE,888,17674917891,598095,118208.03
+36000,New York,1000 or more employees per establishment,FALSE,537,47200332324,1293537,145957.42
+37000,North Carolina,All establishment sizes,FALSE,283627,60660898119,4440121,54647.97
+37000,North Carolina,Fewer than 5 employees per establishment,FALSE,163878,3347678046,245657,54509.87
+37000,North Carolina,5 to 9 employees per establishment,FALSE,43838,3152782752,289433,43571.9
+37000,North Carolina,10 to 19 employees per establishment,FALSE,30983,4471036616,417049,42882.6
+37000,North Carolina,20 to 49 employees per establishment,FALSE,23623,7438503141,704028,42262.52
+37000,North Carolina,50 to 99 employees per establishment,FALSE,7860,6297309223,532581,47296.57
+37000,North Carolina,100 to 249 employees per establishment,FALSE,4047,8453217508,598664,56480.55
+37000,North Carolina,250 to 499 employees per establishment,FALSE,974,5025416230,327172,61440.66
+37000,North Carolina,500 to 999 employees per establishment,FALSE,354,4793150851,241579,79363.59
+37000,North Carolina,1000 or more employees per establishment,FALSE,167,8622117890,372250,92648.68
+38000,North Dakota,All establishment sizes,FALSE,31672,5487882512,413370,53103.83
+38000,North Dakota,Fewer than 5 employees per establishment,FALSE,17380,315272289,26078,48358.97
+38000,North Dakota,5 to 9 employees per establishment,FALSE,4935,360734047,32640,44207.6
+38000,North Dakota,10 to 19 employees per establishment,FALSE,3741,583501399,50511,46208.17
+38000,North Dakota,20 to 49 employees per establishment,FALSE,2389,876100799,70232,49897.76
+38000,North Dakota,50 to 99 employees per establishment,FALSE,738,702528256,49248,57060.84
+38000,North Dakota,100 to 249 employees per establishment,FALSE,328,720384448,49464,58255.25
+38000,North Dakota,250 to 499 employees per establishment,FALSE,80,451778848,26318,68664.62
+38000,North Dakota,500 to 999 employees per establishment,FALSE,20,295131258,14166,83333.14
+38000,North Dakota,1000 or more employees per establishment,FALSE,9,318517653,22350,57004.55
+39000,Ohio,All establishment sizes,FALSE,300158,71810546894,5345853,53731.77
+39000,Ohio,Fewer than 5 employees per establishment,FALSE,153366,3154155091,243352,51845.08
+39000,Ohio,5 to 9 employees per establishment,FALSE,50270,3470267978,332659,41727.67
+39000,Ohio,10 to 19 employees per establishment,FALSE,37671,5211136392,503528,41396.97
+39000,Ohio,20 to 49 employees per establishment,FALSE,27405,8978154245,822766,43648.64
+39000,Ohio,50 to 99 employees per establishment,FALSE,9530,7835590556,649516,48254.95
+39000,Ohio,100 to 249 employees per establishment,FALSE,5500,10804301545,812518,53189.25
+39000,Ohio,250 to 499 employees per establishment,FALSE,1322,6514837990,444676,58603.05
+39000,Ohio,500 to 999 employees per establishment,FALSE,413,5447870362,285096,76435.59
+39000,Ohio,1000 or more employees per establishment,FALSE,249,10449382618,523546,79835.5
+40000,Oklahoma,All establishment sizes,FALSE,110598,19977581196,1610812,49608.73
+40000,Oklahoma,Fewer than 5 employees per establishment,FALSE,61772,1104621086,95878,46084.28
+40000,Oklahoma,5 to 9 employees per establishment,FALSE,17579,1146855099,115745,39633.97
+40000,Oklahoma,10 to 19 employees per establishment,FALSE,12341,1664045332,165160,40301.41
+40000,Oklahoma,20 to 49 employees per establishment,FALSE,8575,2716138773,255859,42463
+40000,Oklahoma,50 to 99 employees per establishment,FALSE,2680,2068746127,180974,45724.63
+40000,Oklahoma,100 to 249 employees per establishment,FALSE,1371,2645374574,200797,52697.58
+40000,Oklahoma,250 to 499 employees per establishment,FALSE,349,1788914721,117158,61077
+40000,Oklahoma,500 to 999 employees per establishment,FALSE,101,1208260736,67267,71848.29
+40000,Oklahoma,1000 or more employees per establishment,FALSE,37,1820825985,81996,88825.47
+41000,Oregon,All establishment sizes,FALSE,157509,26395671104,1916030,55104.91
+41000,Oregon,Fewer than 5 employees per establishment,FALSE,94697,1701531204,140601,48407.49
+41000,Oregon,5 to 9 employees per establishment,FALSE,24470,1631137184,160804,40574.46
+41000,Oregon,10 to 19 employees per establishment,FALSE,16745,2333565009,224504,41577.32
+41000,Oregon,20 to 49 employees per establishment,FALSE,10980,3665858123,326110,44964.68
+41000,Oregon,50 to 99 employees per establishment,FALSE,3068,2716229244,205988,52745.47
+41000,Oregon,100 to 249 employees per establishment,FALSE,1586,3225290902,237259,54375.79
+41000,Oregon,250 to 499 employees per establishment,FALSE,406,2113686494,134581,62822.73
+41000,Oregon,500 to 999 employees per establishment,FALSE,117,1481910677,79482,74578.43
+41000,Oregon,1000 or more employees per establishment,FALSE,58,3442118393,124983,110162.77
+42000,Pennsylvania,All establishment sizes,FALSE,357631,86838291751,5829346,59586.99
+42000,Pennsylvania,Fewer than 5 employees per establishment,FALSE,192479,4269188460,328004,52062.69
+42000,Pennsylvania,5 to 9 employees per establishment,FALSE,60895,4514798833,399940,45154.8
+42000,Pennsylvania,10 to 19 employees per establishment,FALSE,42589,6665285252,571073,46686.05
+42000,Pennsylvania,20 to 49 employees per establishment,FALSE,30214,11453145987,904360,50657.45
+42000,Pennsylvania,50 to 99 employees per establishment,FALSE,10119,9722123358,692830,56129.95
+42000,Pennsylvania,100 to 249 employees per establishment,FALSE,5772,12905227694,863993,59746.91
+42000,Pennsylvania,250 to 499 employees per establishment,FALSE,1449,8374852793,494857,67695.13
+42000,Pennsylvania,500 to 999 employees per establishment,FALSE,522,7120098251,355414,80133.01
+42000,Pennsylvania,1000 or more employees per establishment,FALSE,235,11976407618,536722,89256
+44000,Rhode Island,All establishment sizes,FALSE,38682,6799815436,474465,57326.13
+44000,Rhode Island,Fewer than 5 employees per establishment,FALSE,24797,502038697,34501,58205.7
+44000,Rhode Island,5 to 9 employees per establishment,FALSE,5483,404675413,36045,44907.8
+44000,Rhode Island,10 to 19 employees per establishment,FALSE,3667,525097844,49033,42835.99
+44000,Rhode Island,20 to 49 employees per establishment,FALSE,2621,898215830,78477,45782.37
+44000,Rhode Island,50 to 99 employees per establishment,FALSE,818,696513889,55905,49835.24
+44000,Rhode Island,100 to 249 employees per establishment,FALSE,441,915349076,65278,56089.28
+44000,Rhode Island,250 to 499 employees per establishment,FALSE,84,489595152,27472,71287.29
+44000,Rhode Island,500 to 999 employees per establishment,FALSE,30,503829228,21857,92206.05
+44000,Rhode Island,1000 or more employees per establishment,FALSE,19,860399501,43916,78368.34
+45000,South Carolina,All establishment sizes,FALSE,138118,24550446398,2095061,46873
+45000,South Carolina,Fewer than 5 employees per establishment,FALSE,81184,1638674624,117063,55992.75
+45000,South Carolina,5 to 9 employees per establishment,FALSE,20647,1402288515,136497,41093.71
+45000,South Carolina,10 to 19 employees per establishment,FALSE,15152,2004048973,204861,39129.86
+45000,South Carolina,20 to 49 employees per establishment,FALSE,10800,3132090269,323278,38754.14
+45000,South Carolina,50 to 99 employees per establishment,FALSE,3656,2591259996,245167,42277.53
+45000,South Carolina,100 to 249 employees per establishment,FALSE,1939,3082015228,285764,43140.66
+45000,South Carolina,250 to 499 employees per establishment,FALSE,490,2186595192,164916,53035.37
+45000,South Carolina,500 to 999 employees per establishment,FALSE,170,1648778364,114700,57498.64
+45000,South Carolina,1000 or more employees per establishment,FALSE,79,2615559632,149172,70135.25
+46000,South Dakota,All establishment sizes,FALSE,33959,4699382135,418096,44959.8
+46000,South Dakota,Fewer than 5 employees per establishment,FALSE,19110,360653980,30467,47349.6
+46000,South Dakota,5 to 9 employees per establishment,FALSE,5317,325394974,35033,37152.61
+46000,South Dakota,10 to 19 employees per establishment,FALSE,3687,463024700,49489,37424.2
+46000,South Dakota,20 to 49 employees per establishment,FALSE,2360,710291101,70268,40433.07
+46000,South Dakota,50 to 99 employees per establishment,FALSE,615,436735563,41663,41930.64
+46000,South Dakota,100 to 249 employees per establishment,FALSE,307,549066406,45890,47859.35
+46000,South Dakota,250 to 499 employees per establishment,FALSE,96,388078183,31397,49440.91
+46000,South Dakota,500 to 999 employees per establishment,FALSE,24,308693414,16316,75678.7
+46000,South Dakota,1000 or more employees per establishment,FALSE,8,358360831,23758,60336.03
+47000,Tennessee,All establishment sizes,FALSE,164846,38731934262,2990112,51813.36
+47000,Tennessee,Fewer than 5 employees per establishment,FALSE,88123,2019473527,148364,54446.58
+47000,Tennessee,5 to 9 employees per establishment,FALSE,28226,2034199762,186765,43566.97
+47000,Tennessee,10 to 19 employees per establishment,FALSE,20313,2973660827,272917,43583.32
+47000,Tennessee,20 to 49 employees per establishment,FALSE,14760,4790771009,437323,43819.06
+47000,Tennessee,50 to 99 employees per establishment,FALSE,4858,3997448098,331820,48188.15
+47000,Tennessee,100 to 249 employees per establishment,FALSE,3069,5907812008,454174,52031.23
+47000,Tennessee,250 to 499 employees per establishment,FALSE,765,3399660445,259814,52339.84
+47000,Tennessee,500 to 999 employees per establishment,FALSE,262,2817119732,175797,64099.26
+47000,Tennessee,1000 or more employees per establishment,FALSE,135,5763991043,300439,76741
+48000,Texas,All establishment sizes,FALSE,708779,194347010702,12419060,62596.37
+48000,Texas,Fewer than 5 employees per establishment,FALSE,392953,9135425689,649445,56266.02
+48000,Texas,5 to 9 employees per establishment,FALSE,115418,9359354133,761943,49134.16
+48000,Texas,10 to 19 employees per establishment,FALSE,84491,14171193730,1138454,49791.01
+48000,Texas,20 to 49 employees per establishment,FALSE,60916,24230808407,1819878,53258.09
+48000,Texas,50 to 99 employees per establishment,FALSE,21474,21702457046,1469988,59054.77
+48000,Texas,100 to 249 employees per establishment,FALSE,11953,28864225178,1779268,64890.12
+48000,Texas,250 to 499 employees per establishment,FALSE,3189,19141569276,1080806,70841.83
+48000,Texas,500 to 999 employees per establishment,FALSE,1092,15744052671,731464,86096.16
+48000,Texas,1000 or more employees per establishment,FALSE,551,27191939210,1087752,99993.16
+49000,Utah,All establishment sizes,FALSE,105424,18975977286,1492178,50867.87
+49000,Utah,Fewer than 5 employees per establishment,FALSE,63006,1239993265,91909,53965.93
+49000,Utah,5 to 9 employees per establishment,FALSE,14846,1031738991,97868,42168.74
+49000,Utah,10 to 19 employees per establishment,FALSE,11267,1505085183,151109,39841.13
+49000,Utah,20 to 49 employees per establishment,FALSE,7956,2526163920,235645,42880.84
+49000,Utah,50 to 99 employees per establishment,FALSE,2465,1952125789,166594,46871.55
+49000,Utah,100 to 249 employees per establishment,FALSE,1334,2626678212,195157,53837.32
+49000,Utah,250 to 499 employees per establishment,FALSE,331,1707129824,113972,59913.83
+49000,Utah,500 to 999 employees per establishment,FALSE,128,1427504946,87217,65469.11
+49000,Utah,1000 or more employees per establishment,FALSE,64,2164351722,118315,73172.52
+50000,Vermont,All establishment sizes,FALSE,25760,3817797665,309321,49370.04
+50000,Vermont,Fewer than 5 employees per establishment,FALSE,15202,307456086,22756,54043.17
+50000,Vermont,5 to 9 employees per establishment,FALSE,3865,254798805,25267,40337.54
+50000,Vermont,10 to 19 employees per establishment,FALSE,2777,365495422,37045,39464.67
+50000,Vermont,20 to 49 employees per establishment,FALSE,1640,527316464,48704,43308.15
+50000,Vermont,50 to 99 employees per establishment,FALSE,495,396593336,34022,46628.33
+50000,Vermont,100 to 249 employees per establishment,FALSE,233,450820013,33519,53798.74
+50000,Vermont,250 to 499 employees per establishment,FALSE,45,245017857,15249,64272.6
+50000,Vermont,500 to 999 employees per establishment,FALSE,23,218609719,16474,53079.94
+50000,Vermont,1000 or more employees per establishment,FALSE,12,337067768,22212,60701.03
+51000,Virginia,All establishment sizes,FALSE,279268,59791258521,3879702,61645.2
+51000,Virginia,Fewer than 5 employees per establishment,FALSE,175248,3313757157,234099,56621.55
+51000,Virginia,5 to 9 employees per establishment,FALSE,37239,2995226148,244403,49021.17
+51000,Virginia,10 to 19 employees per establishment,FALSE,27444,4377952965,369290,47420.22
+51000,Virginia,20 to 49 employees per establishment,FALSE,20014,7478444726,597196,50090.36
+51000,Virginia,50 to 99 employees per establishment,FALSE,6780,6614161350,458221,57737.78
+51000,Virginia,100 to 249 employees per establishment,FALSE,3449,8062902874,507241,63582.46
+51000,Virginia,250 to 499 employees per establishment,FALSE,880,5629118020,297550,75672.82
+51000,Virginia,500 to 999 employees per establishment,FALSE,250,3904376794,168216,92841.8
+51000,Virginia,1000 or more employees per establishment,FALSE,151,6860070056,291350,94183.32
+53000,Washington,All establishment sizes,FALSE,251473,59220253088,3342106,70877.76
+53000,Washington,Fewer than 5 employees per establishment,FALSE,165842,2559365647,232499,44032.22
+53000,Washington,5 to 9 employees per establishment,FALSE,32769,2435875079,214618,45399.2
+53000,Washington,10 to 19 employees per establishment,FALSE,22630,3624790220,303197,47820.98
+53000,Washington,20 to 49 employees per establishment,FALSE,16255,6148746018,482179,51008.03
+53000,Washington,50 to 99 employees per establishment,FALSE,5183,5224829056,352346,59314.75
+53000,Washington,100 to 249 employees per establishment,FALSE,2937,6795637316,431391,63011.35
+53000,Washington,250 to 499 employees per establishment,FALSE,713,4653054025,236801,78598.66
+53000,Washington,500 to 999 employees per establishment,FALSE,204,3209289290,139318,92142.85
+53000,Washington,1000 or more employees per establishment,FALSE,117,15324498133,384306,159503.22
+54000,West Virginia,All establishment sizes,FALSE,51501,7969047919,684493,46569.08
+54000,West Virginia,Fewer than 5 employees per establishment,FALSE,27332,454050119,41640,43617.08
+54000,West Virginia,5 to 9 employees per establishment,FALSE,8799,519257676,57745,35969.22
+54000,West Virginia,10 to 19 employees per establishment,FALSE,5892,753037288,77913,38660.42
+54000,West Virginia,20 to 49 employees per establishment,FALSE,3615,1101029978,106978,41168.59
+54000,West Virginia,50 to 99 employees per establishment,FALSE,1134,868787996,76291,45551.47
+54000,West Virginia,100 to 249 employees per establishment,FALSE,512,967391987,76010,50908.45
+54000,West Virginia,250 to 499 employees per establishment,FALSE,135,650514546,45585,57081.46
+54000,West Virginia,500 to 999 employees per establishment,FALSE,34,404392507,23713,68215.44
+54000,West Virginia,1000 or more employees per establishment,FALSE,20,621360159,40305,61665.81
+55000,Wisconsin,All establishment sizes,FALSE,177708,36518835108,2831563,51588.24
+55000,Wisconsin,Fewer than 5 employees per establishment,FALSE,98834,1771004299,149980,47232.97
+55000,Wisconsin,5 to 9 employees per establishment,FALSE,27257,1766629254,180254,39203.18
+55000,Wisconsin,10 to 19 employees per establishment,FALSE,20589,2693538964,277164,38872.81
+55000,Wisconsin,20 to 49 employees per establishment,FALSE,14712,4660919616,441549,42223.32
+55000,Wisconsin,50 to 99 employees per establishment,FALSE,4963,4042985489,339228,47672.83
+55000,Wisconsin,100 to 249 employees per establishment,FALSE,2801,5544236869,422284,52516.62
+55000,Wisconsin,250 to 499 employees per establishment,FALSE,745,3819533893,251609,60721.66
+55000,Wisconsin,500 to 999 employees per establishment,FALSE,259,3242553501,172626,75134.77
+55000,Wisconsin,1000 or more employees per establishment,FALSE,110,4227817434,216635,78063.54
+56000,Wyoming,All establishment sizes,FALSE,26511,3311695268,268437,49347.76
+56000,Wyoming,Fewer than 5 employees per establishment,FALSE,15902,311873762,24652,50604.21
+56000,Wyoming,5 to 9 employees per establishment,FALSE,4306,284886769,28403,40120.66
+56000,Wyoming,10 to 19 employees per establishment,FALSE,2661,358232405,35313,40577.96
+56000,Wyoming,20 to 49 employees per establishment,FALSE,1585,504618251,46042,43839.82
+56000,Wyoming,50 to 99 employees per establishment,FALSE,383,323327496,25490,50737.94
+56000,Wyoming,100 to 249 employees per establishment,FALSE,158,330619127,22229,59493.3
+56000,Wyoming,250 to 499 employees per establishment,FALSE,31,170371163,9961,68417.57
+56000,Wyoming,500 to 999 employees per establishment,TRUE,10,,,
+56000,Wyoming,1000 or more employees per establishment,TRUE,4,,,
+72000,Puerto Rico,All establishment sizes,FALSE,46320,6241565918,870643,28675.65
+72000,Puerto Rico,Fewer than 5 employees per establishment,FALSE,24677,280945737,47699,23559.72
+72000,Puerto Rico,5 to 9 employees per establishment,FALSE,8445,307353558,55296,22233.46
+72000,Puerto Rico,10 to 19 employees per establishment,FALSE,5551,420279742,73753,22794.01
+72000,Puerto Rico,20 to 49 employees per establishment,FALSE,3769,693095963,112687,24602.44
+72000,Puerto Rico,50 to 99 employees per establishment,FALSE,1110,518976988,75043,27662.91
+72000,Puerto Rico,100 to 249 employees per establishment,FALSE,660,713284377,99424,28696.76
+72000,Puerto Rico,250 to 499 employees per establishment,FALSE,210,616903442,75321,32761.15
+72000,Puerto Rico,500 to 999 employees per establishment,FALSE,111,617462896,73759,33485.58
+72000,Puerto Rico,1000 or more employees per establishment,FALSE,39,489368405,57847,33838.61
+78000,Virgin Islands,All establishment sizes,FALSE,3501,457717800,36452,50226.91
+78000,Virgin Islands,Fewer than 5 employees per establishment,TRUE,2300,,,
+78000,Virgin Islands,5 to 9 employees per establishment,FALSE,410,27517902,2678,41107.29
+78000,Virgin Islands,10 to 19 employees per establishment,FALSE,324,47871477,4332,44202.66
+78000,Virgin Islands,20 to 49 employees per establishment,FALSE,228,75177022,6625,45392.18
+78000,Virgin Islands,50 to 99 employees per establishment,FALSE,64,50607617,4136,48947.48
+78000,Virgin Islands,100 to 249 employees per establishment,FALSE,34,59340428,5157,46030.07
+78000,Virgin Islands,250 to 499 employees per establishment,TRUE,3,,,
